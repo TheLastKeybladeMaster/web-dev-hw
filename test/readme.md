@@ -2,3 +2,5 @@
 
 
 Testing Directory
+
+my [course notes](./notes.txt)
