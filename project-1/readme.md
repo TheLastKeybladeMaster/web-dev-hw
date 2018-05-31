@@ -1,4 +1,5 @@
 # READ ME SEYMOUR
+
 - The browser I use most frequently is Google Chrome. I also use Safari from my iPhone. Browsers work by sending a request over the network to a server, which then processes your request and responds with the requested content. The browser interprets this content and displays it in a way we can understand.
 
 - I went back and looked at the PlayStation Website from 1999. It's amazing how far we've come. That old nostalgic logo, calling the east "AustraliaAsia", the very bare necessities covered. It looks like I'm browsing the website from a PS1. It's insane. "So, you want to be Disney's Tarzan?". There's even an ad for "A Bug's Life" game that I had when I was a wee lad.
@@ -14,3 +15,4 @@
  - Drown in readings
 +
 + ![My Image](./images/desktop.png)
+![example](http://bit.ly/2DIVG46)
