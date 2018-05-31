@@ -13,4 +13,4 @@
  - realize that those readings are further down the page
  - Drown in readings
 +
-+![My Image](./images/desktop.png)
++ ![My Image](./images/desktop.png)
