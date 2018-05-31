@@ -1,3 +1,5 @@
+
+
 # My Intro-Web-Dev Homework Repo
 ## Clayton Dutton
  I have decided to take this class because it is part of my Media Arts minor. I am a computer science major and decided that this class would be useful for both of these fields.
