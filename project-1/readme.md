@@ -12,5 +12,5 @@
  - Freak out that I didn't see the reading for more stuff
  - realize that those readings are further down the page
  - Drown in readings
-
- ![My Image](./images/desktop.png)
++
++![My Image](./images/desktop.png)
