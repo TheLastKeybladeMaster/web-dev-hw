@@ -6,28 +6,11 @@
    position: absolute;
 }
 
-.curved {
-   border-top-left-radius: 200px;
-   border-top-right-radius: 200px;
-}
-
-.curved.blue {
-
-   background-color: #293FAC;
-   width: 100px;
-   height: 100px;
-   position: absolute;
-   top: 50px;
-   right: 25px;
-}
-
-.arrow-up {
-  width: 0;
-  height: 0;
-  border-left: 5px solid transparent;
-  border-right: 5px solid transparent;
-
-  border-bottom: 5px solid black;
-  top:50;
-  right:25;
+.circle {
+	width: 100px;
+	height: 100px;
+	background: red;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
 }
