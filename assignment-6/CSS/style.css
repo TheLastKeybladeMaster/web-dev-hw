@@ -6,10 +6,11 @@
    position: absolute;
 }
 .curved.blue {
+
    background-color: #293FAC;
-   width: 50%;
-   height: 50%;
+   width: 100px;
+   height: 100px;
    position: absolute;
-   left: 60px;
-   bottom: 0;
+   top: 25px;
+   right: 20px;
 }
