@@ -7,8 +7,8 @@
 }
 
 .circle {
-	width: 50%;
-	height: 50%;
+	width: 100px;
+	height: 100px;
 	background: #293FAC;
 	-moz-border-radius: 50%;
 	-webkit-border-radius: 50%;
