@@ -1,7 +1,15 @@
 .canvas {
-   background-color: Purple;
-   border: 5px solid gray;
+   background-color: #B21581;
+
    width: 100%;
    height: 100%;
    position: absolute;
+}
+.curved.green {
+   background-color: #293FAC;
+   width: 50%;
+   height: 50%;
+   position: absolute;
+   left: 60px;
+   bottom: 0;
 }
