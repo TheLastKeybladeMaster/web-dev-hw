@@ -10,7 +10,9 @@
    background-color: #293FAC;
    width: 100px;
    height: 100px;
+   border: 15px solid rgb(41,63,172);
+ border-radius: 100px;
    position: absolute;
-   top: 25px;
-   right: 20px;
+   top: 50px;
+   right: 50px;
 }
