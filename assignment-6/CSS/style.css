@@ -1,3 +1,9 @@
+body {
+  background-color: white;
+
+  text-align: center;
+}
+
 .canvas {
    background-color: #581981;
 
@@ -12,6 +18,7 @@
 	border-radius: 50%;
  position: relative;
 
+
 }
 
 .circle.blue{
@@ -23,11 +30,97 @@
 position: absolute; left: 50%; top: 50%;
 }
 
-.circle.red{
+.circle.yellow{
   width: 250px;
   height: 250px;
-  background: red;
+  background: yellow;
   margin-top:125px;
   margin-left:125px;
+}
+
+.tv {
+  position: relative;
+  width: 200px;
+  height: 150px;
+  margin: 20px 0;
+  background: white;
+  border-radius: 50% / 10%;
+  color: white;
+  margin-top: -200px;
+  margin-left:150px;
+}
+.tv:before {
+  content: '';
+  position: absolute;
+  top: 10%;
+  bottom: 10%;
+  right: -5%;
+  left: -5%;
+  background: inherit;
+  border-radius: 5% / 50%;
+}
+
+.space-invader{
+
+    position: relative;
+  box-shadow:
+    0 0 0 1em #646565,
+    0 1em 0 1em #646565,
+    -2.5em 1.5em 0 .5em #646565,
+    2.5em 1.5em 0 .5em #646565,
+    -3em -3em 0 0 #646565,
+    3em -3em 0 0 #646565,
+    -2em -2em 0 0 #646565,
+    2em -2em 0 0 #646565,
+    -3em -1em 0 0 #646565,
+    -2em -1em 0 0 #646565,
+    2em -1em 0 0 #646565,
+    3em -1em 0 0 #646565,
+    -4em 0 0 0 #646565,
+    -3em 0 0 0 #646565,
+    3em 0 0 0 #646565,
+    4em 0 0 0 #646565,
+    -5em 1em 0 0 #646565,
+    -4em 1em 0 0 #646565,
+    4em 1em 0 0 #646565,
+    5em 1em 0 0 #646565,
+    -5em 2em 0 0 #646565,
+    5em 2em 0 0 #646565,
+    -5em 3em 0 0 #646565,
+    -3em 3em 0 0 #646565,
+    3em 3em 0 0 #646565,
+    5em 3em 0 0 #646565,
+    -2em 4em 0 0 #646565,
+    -1em 4em 0 0 #646565,
+    1em 4em 0 0 #646565,
+    2em 4em 0 0 #646565;
+
+    background: #646565;
+    width: 1em;
+    height: 1em;
+    margin-top: -110px;
+    margin-left: 240px;
+  }
+
+.text-container{
+  margin-top: -450px;
+  margin-left: 0px;
+font-size: 20px;
+}
+
+.pacman{
+  margin-top: -200px;
+  margin-left: -600px;
+}
+.qbert{
+  margin-top: -200px;
+  margin-left: 500px;
+}
+.extratxt{
+  width: 300;
+  height: 100%;
+  margin-top: -580px;
+  margin-left: 100px;
+    color: rgb(16, 255, 31);
 
 }
