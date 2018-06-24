@@ -3,7 +3,7 @@ body {
 
   text-align: center;
 }
-//Am I a cool kid yet?
+/*Am I a cool kid yet?*/
 .canvas {
    background-color: #581981;
 
@@ -11,7 +11,7 @@ body {
    height: 100%;
    position: absolute;
 }
-// Do these count?
+/* Do these count?*/
 .circle {
 	-moz-border-radius: 50%;
 	-webkit-border-radius: 50%;
