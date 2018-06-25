@@ -2,6 +2,7 @@
 
 @font-face {
 font-family: 'Great Vibes', cursive;
-  font-weight: normal;
-  font-style: normal;
+src: url('../fonts/GreatVibes-Regular.ttf') format('opentype');
+font-weight: normal;
+font-style: normal;
 }
