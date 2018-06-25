@@ -1,3 +1,13 @@
 * {
   font-family: 'Great Vibes', cursive;
+  color: blue;
+}
+body {
+   background-image: url("./images/Hallows.jpeg");
+   background-color: #yellow;
+}
+h1{
+  font-family: 'Kaushan Script', cursive;
+  color: purple;
+  text-align: right;
 }

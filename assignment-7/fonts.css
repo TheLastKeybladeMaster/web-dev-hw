@@ -1,8 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Great+Vibes');
-
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script');
 @font-face {
 font-family: 'Great Vibes', cursive;
-src: url('../fonts/GreatVibes-Regular.ttf') format('opentype');
+src: url('./fonts/GreatVibes-Regular.ttf') format('opentype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Kaushan Script', cursive;
+src: url('./fonts/KaushanScript-Regular.ttf') format('opentype');
 font-weight: normal;
 font-style: normal;
 }
