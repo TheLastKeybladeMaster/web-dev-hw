@@ -46,20 +46,35 @@ h3{
 }
 
 .button-container {
+
   width: 15em;
   height: 4em;
-  margin: auto;
-}
-.button {
-  height: 30px;
-  width: 140px;
-  background-color: rgb(70, 16, 105);
-  border-color: #8f8b8b #383636 #383636 #8f8b8b;
-  border-width: 6px 10px 10px 6px;
-  border-style: solid;
   margin: auto;
 }
 .dhallows{
   margin-top: -200px;
   margin-left: -200px;
+}
+
+.button {
+  color: yellow;
+  height: 30px;
+  width: 130px;
+  background-color: rgb(70, 16, 105);
+  border-color: #2B7AA7 #1E516E #1E516E #2B7AA7;
+  border-width: 6px 10px 10px 6px;
+  border-style: solid;
+  margin: auto;
+}
+
+
+
+.button:hover {
+    color: orange;
+    font-style: italic;
+}
+.button:active {
+  background-color: rgb(6,26,75);
+  border-color: #1E516E #2B7AA7 #2B7AA7 #1E516E;
+  border-width: 10px 6px 6px 10px;
 }
