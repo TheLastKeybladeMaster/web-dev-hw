@@ -19,18 +19,24 @@ h2{
 h3{
   font-family: 'Kaushan Script', cursive;
   background-color: #FFFFFF;
+  text-align: center;
 }
 
 .name{
-
   font-size: 30px;
   color: #1C1494;
 }
-
+.name2{
+  font-size: 30px;
+  color: #941464;
+}
 
 
 .spoken {
   font-style: italic;
+  color: Magenta;
+
+    font-size: 25px;
 }
 
 .text-container {
