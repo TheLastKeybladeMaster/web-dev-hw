@@ -25,10 +25,12 @@ h3{
 .name{
   font-size: 30px;
   color: #1C1494;
+  font-weight: bold;
 }
 .name2{
   font-size: 30px;
   color: #941464;
+  font-weight: bold;
 }
 
 
@@ -53,7 +55,8 @@ h3{
 }
 .dhallows{
   margin-top: -200px;
-  margin-left: -200px;
+  margin-left: 200px;
+
 }
 
 .button {
