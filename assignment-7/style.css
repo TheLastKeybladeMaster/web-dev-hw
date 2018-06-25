@@ -24,6 +24,7 @@ h3{
 .name{
 
   font-size: 30px;
+  color: #1C1494;
 }
 
 
@@ -31,11 +32,28 @@ h3{
 .spoken {
   font-style: italic;
 }
-.name{
 
-}
 .text-container {
   background-color: #FFFFFF;
   padding: 4em;
   margin: 3em;
+}
+
+.button-container {
+  width: 15em;
+  height: 4em;
+  margin: auto;
+}
+.button {
+  height: 30px;
+  width: 140px;
+  background-color: rgb(70, 16, 105);
+  border-color: #8f8b8b #383636 #383636 #8f8b8b;
+  border-width: 6px 10px 10px 6px;
+  border-style: solid;
+  margin: auto;
+}
+.dhallows{
+  margin-top: -200px;
+  margin-left: -200px;
 }
