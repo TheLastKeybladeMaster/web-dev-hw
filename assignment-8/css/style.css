@@ -2,10 +2,11 @@
   font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
   text-align: center;
   font-size: 30px;
-
 }
 .text-container{
-  width: 1000px;
+  text-align: center;
+  position: absolute;
+  width: 100%;;
   height: 300px;
 }
 h1{
@@ -20,11 +21,17 @@ h1{
    height: 100%;
    position: absolute;
 }
+.links {
+  background-color: lightgray;
+  width: 100%;
+  height: 100px;
+  position: absolute;
+}
 ul {
   display: table; margin:0 auto;
 }
 
-.instagram {
+.gihub {
     display: block;
 
     margin-left: 0%;
@@ -33,16 +40,16 @@ ul {
 
 .instagram {
     display: block;
+margin-right: 100px;
 
-    margin-left: 50%;
-    margin-right: 50%;
+
 
 }
 .youtube {
     display: block;
-    margin-top: -90px;
-    margin-right:0%;
-    margin-left: 100%;
+    margin-top: -100px;
+    margin-left: 768px;
+
 
 }
 
@@ -54,8 +61,8 @@ ul {
   border-color: #2B7AA7 #1E516E #1E516E #2B7AA7;
   border-width: 6px 10px 10px 6px;
   border-style: solid;
-  margin-right: 60%;
-  margin-left: 40%;
+  margin-right: 68%;
+  margin-left: 32%;
 }
 
 
