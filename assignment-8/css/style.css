@@ -41,7 +41,7 @@ ul {
 
 .instagram {
     display: block;
-margin-right: 100px;
+margin-right: 50%;
   margin-top: -25px
 
 
@@ -49,14 +49,14 @@ margin-right: 100px;
 .youtube {
     display: block;
     margin-top: -100px;
-    margin-left: 693px;
+    margin-left: 100%;
 
 }
 .p4gif{
   position: absolute;
   z-index: -1;
   margin-top: -100px;
-  margin-left:  263px;
+  margin-left:  50%;
 }
 
 .button {
@@ -67,8 +67,8 @@ margin-right: 100px;
   border-color: #2B7AA7 #1E516E #1E516E #2B7AA7;
   border-width: 6px 10px 10px 6px;
   border-style: solid;
-  margin-right: 68%;
-  margin-left: 32%;
+  margin-right: 50%;
+
 }
 
 
