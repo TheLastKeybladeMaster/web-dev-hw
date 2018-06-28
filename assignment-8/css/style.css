@@ -54,7 +54,8 @@ ul {
   border-color: #2B7AA7 #1E516E #1E516E #2B7AA7;
   border-width: 6px 10px 10px 6px;
   border-style: solid;
-  margin: auto;
+  margin-right: 60%;
+  margin-left: 40%;
 }
 
 
