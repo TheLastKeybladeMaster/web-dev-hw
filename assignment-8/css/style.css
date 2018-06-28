@@ -2,7 +2,9 @@
   font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
   text-align: center;
   font-size: 30px;
-  background-color: Gray;
+
+  background-image: url('../images/Portrait.jpg');
+background-repeat:no-repeat;
 }
 
 h1{
